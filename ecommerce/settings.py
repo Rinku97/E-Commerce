@@ -24,7 +24,7 @@ SECRET_KEY = 'm98fi-3ex0ppj0*o=7uf-p_2hb8+(t204o7&qokjvt(ib2fkfp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1:8000', 'rinkuecom.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'rinkuecom.herokuapp.com']
 
 # Application definition
 
